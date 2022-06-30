@@ -42,7 +42,7 @@ The admin side features:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Noroff-FEU-Assignments/project-exam-2-TrygveKontoret.git
+git clone https://github.com/TrygveKontoret/Holidaze.git
 ```
 
 2. Install the dependencies:
