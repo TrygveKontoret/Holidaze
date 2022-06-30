@@ -1,4 +1,4 @@
-# Project-exam-2
+# Holidaze
 
 ![porject-exam-image](https://user-images.githubusercontent.com/69842793/173430709-e2789fad-98b0-49e5-bc8f-c9286bc51b3e.png)
 
