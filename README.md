@@ -35,6 +35,10 @@ The admin side features:
 - Strapi
 - StyledComponents
 
+## Hosted site
+
+https://holidaze-phi.vercel.app/
+
 ## Getting Started
 
 ### Installing
